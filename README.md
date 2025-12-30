@@ -1,10 +1,16 @@
-# Lawrence.Davy
+## Lawrence Davy
 
-Career pivot into Cloud Security & AI Security (LLMs).
+Cloud Security / Detection → AI & LLM Security
 
-Focus:
-- SOC & Detection Engineering
-- GenAI / LLM threat modeling & red teaming
-- Secure cloud deployments
+Career switcher with hands-on labs in:
+- SOC & Detection Engineering (KQL, SIEM concepts)
+- Cloud security fundamentals
+- LLM / GenAI threat modeling and testing
 
-Currently building a job-ready AI Security portfolio.
+Currently building:
+- Detection-as-code labs
+- Secure LLM application examples
+- AI red teaming & evaluation projects
+
+Location: UK  
+Open to: Remote / Relocation
