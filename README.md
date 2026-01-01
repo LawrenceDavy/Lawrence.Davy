@@ -1,16 +1,28 @@
-## Lawrence Davy
+# Lawrence Davy
+## Security Operations Analyst | Detection Engineering | AI / LLM Security
 
-Cloud Security / Detection → AI & LLM Security
+Career-transitioning cybersecurity professional with a background in high-pressure operational leadership and a focus on cloud security operations and emerging AI threats.
 
-Career switcher with hands-on labs in:
-- SOC & Detection Engineering (KQL, SIEM concepts)
-- Cloud security fundamentals
-- LLM / GenAI threat modeling and testing
+### 🔐 Core Focus
+- **Security Operations (SOC):** Microsoft Sentinel, KQL, incident response
+- **Detection Engineering:** Analytics rules, threat hunting, detection logic
+- **AI / LLM Security:** OWASP Top 10 for LLM Applications, MITRE ATLAS
+- **Automation:** Python scripting for security workflows
 
-Currently building:
-- Detection-as-code labs
-- Secure LLM application examples
-- AI red teaming & evaluation projects
+### 🧠 AI Security Specialization
+- LLM threat modeling (RAG, agents, internal assistants)
+- Prompt injection & data leakage testing
+- Red-team style evaluation using open-source tooling
+- Risk-based security design aligned with governance frameworks
 
-Location: UK  
-Open to: Remote / Relocation
+### 🧪 Featured Projects
+Pinned repositories below demonstrate hands-on SOC operations, detection engineering, and AI security work.
+
+### 📜 Certifications
+- CompTIA Security+ (in progress)
+- Microsoft SC-200 (planned)
+
+### 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/lawrencedavy/
+- Location: United Kingdom
+- Open to remote or relocation (EU / US / Canada)
